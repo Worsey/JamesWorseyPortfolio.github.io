@@ -12,7 +12,7 @@
 			  color : grey;
 			 }
 		
-		h3	{font: 100% Helvetica;
+		h3	{font: 125% Helvetica;
 			 color: grey;
 			 }
 			 
@@ -64,10 +64,11 @@
 					border-right: 1px solid #7f7f7f;
 					}
 					
-		#content p {	color: #666;
+		#content p {color: #666;
 					line-height: 1.6;
 					margin-bottom: 10px;
 					}
+					
 					
 		#hobbies {	font-size: 90%;
 					float: right;
