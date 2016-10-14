@@ -72,8 +72,18 @@
 					
 		#hobbies {	font-size: 90%;
 					float: right;
-					width: 450px;
+					width: 463px;
 					margin-bottom: 20px;
+					border-left: 1px solid #7f7f7f;
+					}
+		
+		#hobbies p {padding: 0 10px;
+					}
+		
+		#hobbies h3 {padding: 0 10px;
+					}
+		
+		#hobbies h2 {padding: 0 10px;
 					}
 					
 		#pageFooter {	clear: both;
