@@ -1,23 +1,22 @@
 @charset "UTF-8";
 
-	
-	body { background: #89052B ;
+	body {background-image: url("Images/AlbumComnemplation.png");
 			  font-family: verdana, Georgia;
 			 }
 			 
 		h1   {Font: 300% Arial, Helvetica, sans-serif;
-			  color: #AFAFAF;
+			  color: grey
 			 }
 			 
 		h2	 {font: 150% Helvetica;
-			  color : #AFAFAF;
+			  color : grey;
 			 }
 		
 		h3	{font: 125% Helvetica;
-			 color: #AFAFAF;
+			 color: grey;
 			 }
 			 
-		p 	 {color: #AFAFAF;
+		p 	 {color: grey;
 			 }
 		
 		#wrapper {Width: 1100px;
@@ -47,7 +46,7 @@
 						  
 		#mainHeader ul li a {font-family: Arial, Helvetica;
 							 Font-size: 20px;
-							 color: #AFAFAF;
+							 color: #000;
 							 padding: 0 15px;
 							 border-right: 1px solid #000;
 							 text-decoration: none;}
